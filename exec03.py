@@ -1,4 +1,4 @@
-p1 =  input('Primeiro Número: ')
-p2 =  input('Segundo Número: ')
-soma = int(p1) + int(p2)
-print('A soma entre', p1, 'e', p2, 'vale', soma)
+p1 =  int(input('Primeiro Número: '))
+p2 =  int(input('Segundo Número: '))
+soma = p1 + p2
+print('A soma entre', p1, 'e', p2, 'é igual a', soma)
