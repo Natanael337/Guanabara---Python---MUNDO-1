@@ -1,4 +1,5 @@
 n1 = input('Digite um valor: ')
+print('O tipo primitivo desse valor é {}'.format(type(n1)))
 print('É Númerico: {}'.format(n1.isnumeric()))
 print('É Alfabético: {}'.format(n1.isalpha()))
 print('É Alfanumérico: {}'.format(n1.isalnum()))
