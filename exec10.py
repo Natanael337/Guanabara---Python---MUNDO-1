@@ -1,0 +1,22 @@
+n0 = int(input('Digite um Número: '))
+n1 = n0 * 1
+n2 = n0 * 2
+n3 = n0 * 3
+n4 = n0 * 4
+n5 = n0 * 5
+n6 = n0 * 6
+n7 = n0 * 7
+n8 = n0 * 8
+n9 = n0 * 9
+n10 = n0 * 10
+print('Aqui está a sua Tabuada: ')
+print('\n {} x 1 = {}'.format(n0, n1))
+print('\n {} x 2 = {}'.format(n0, n1))
+print('\n {} x 3 = {}'.format(n0, n1))
+print('\n {} x 4 = {}'.format(n0, n1))
+print('\n {} x 5 = {}'.format(n0, n1))
+print('\n {} x 6 = {}'.format(n0, n1))
+print('\n {} x 7 = {}'.format(n0, n1))
+print('\n {} x 8 = {}'.format(n0, n1))
+print('\n {} x 9 = {}'.format(n0, n1))
+print('\n {} x 10 = {}'.format(n0, n1))
