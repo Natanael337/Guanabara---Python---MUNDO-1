@@ -1,0 +1,5 @@
+palavra = input('Digite uma Palavra: ')
+palavra = palavra.upper()
+print('A letra A aparece {} vezes na palavra'.format(palavra.count('A')))
+print('A primeira letra A apareceu na posição {}'.format(palavra.find('A') +1))
+print('A última letra A apareceu na posição {}'.format(palavra.rfind('A') +1))
